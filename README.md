@@ -4,3 +4,5 @@ This project reflects an approach taken by a number of teams in the INFO-6103 cl
 
 Hetal Gorecha
 Meet Kanakia
+
+THe project is created with Spring Initializr: https://start.spring.io/
